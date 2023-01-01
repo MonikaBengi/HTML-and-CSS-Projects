@@ -1,0 +1,20 @@
+table{
+	border:1px #FF1493;
+	}
+	td:hover{
+		background-color:palegreen;
+		color:darkgreen;
+		}
+	h1{
+		background-color:pink;
+		color:hotpink;
+		}
+	tr,th{
+		background-color:lightyellow;
+		color:darkorange;
+		}
+	tr,td{
+		background-color:lightcyan;
+		color:teal;
+		}
+		
